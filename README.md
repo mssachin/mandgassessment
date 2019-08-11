@@ -20,6 +20,10 @@ The overall result is fail because comments end point returns all comments from 
 particular post requested for.
 
 
+To Run the test:
+1) Via IntelliJ: Right click on TestRunner and click Run
+2) Via Command Line: run the command mvn test
+
 
 
 
